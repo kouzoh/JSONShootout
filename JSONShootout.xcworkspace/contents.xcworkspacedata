@@ -5,6 +5,9 @@
       location = "group:JSONShootout.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:Carthage/Checkouts/Freddy/../Himotoki/Himotoki.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Carthage/Checkouts/ObjectMapper/ObjectMapper.xcodeproj">
    </FileRef>
    <FileRef
